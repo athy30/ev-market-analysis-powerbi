@@ -232,3 +232,10 @@ The project demonstrates practical experience in:
 - Communicating data-driven findings and limitations
 
 The dashboard enables users to explore EV manufacturers, models, vehicle types, model years, electric range, and geographic distribution through interactive visuals and filters.
+
+## Author
+
+**Atharva Bali**
+
+- LinkedIn: [Atharva Bali](https://www.linkedin.com/in/atharva-bali-ab7551326/)
+- GitHub: [athy30](https://github.com/athy30)
