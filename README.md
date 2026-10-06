@@ -25,7 +25,7 @@ The analysis uses Power BI to clean, transform, calculate, and visualize the dat
 
 ## Dataset
 
-The dataset contains information related to electric vehicles, including:
+The dataset contains electric vehicle population records with fields covering vehicle identity, location, vehicle type, model year, manufacturer, model, and electric range. Representative fields include:
 
 - VIN (1-10)
 - Country
