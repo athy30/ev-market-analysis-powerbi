@@ -21,7 +21,7 @@ The project focuses on understanding the EV market through manufacturer performa
 
 The dataset contains information related to electric vehicles, including:
 
-- VIN
+- VIN (1-10)
 - Country
 - City
 - State
