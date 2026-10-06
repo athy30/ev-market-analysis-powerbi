@@ -87,6 +87,20 @@ Focuses on electric-range and geographic patterns, including:
 - Average electric range by model year
 - Records with zero recorded electric range
 
+## Dashboard Screenshots
+
+### Executive Dashboard
+
+![Executive Dashboard](screenshots/executive-dashboard.png.png)
+
+### Vehicle & Manufacturer Analysis
+
+![Vehicle & Manufacturer Analysis](screenshots/vehicle-manufacturer-analysis.png.png)
+
+### Range & Geographic Analysis
+
+![Range & Geographic Analysis](screenshots/range-geographic-analysis.png.png)
+
 ## Key Analysis
 
 ### EV Type Distribution
