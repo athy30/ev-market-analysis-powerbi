@@ -57,6 +57,17 @@ The preparation process included:
 - Creating electric-range bins for distribution analysis
 - Preparing the cleaned dataset for analysis and visualization
 
+## Project Workflow
+
+The project followed a structured data analytics workflow:
+
+1. **Data Collection** — Obtained the Electric Vehicle Population dataset from the official Data.gov source.
+2. **Data Cleaning** — Used Power Query to inspect data quality, remove unnecessary fields, clean text values, and correct data types.
+3. **Data Preparation** — Prepared the cleaned dataset for analysis and created electric-range bins for distribution analysis.
+4. **DAX Analysis** — Created reusable measures for EV counts, vehicle-type distribution, average range, and zero-range records.
+5. **Dashboard Development** — Built a three-page interactive Power BI dashboard using KPI cards, charts, slicers, and analytical visuals.
+6. **Insight Generation** — Analyzed manufacturer concentration, popular models, model-year distribution, geographic patterns, vehicle-type composition, and electric range.
+
 ## Dashboard Analysis
 
 ## Dashboard Structure
