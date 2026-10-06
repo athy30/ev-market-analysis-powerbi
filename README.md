@@ -8,6 +8,12 @@ This project analyzes a dataset containing **299,705 electric vehicle records** 
 
 The project focuses on understanding the EV market through manufacturer performance, popular vehicle models, vehicle type distribution, model-year trends, and electric range.
 
+## Project Objective
+
+The objective of this project was to analyze electric vehicle population data and identify patterns across manufacturers, vehicle models, vehicle types, model years, electric range, and geographic locations.
+
+The analysis uses Power BI to clean, transform, calculate, and visualize the data through an interactive multi-page dashboard, helping users explore EV market composition and identify key trends and patterns.
+
 ## Tools & Technologies
 
 - **Power BI**
