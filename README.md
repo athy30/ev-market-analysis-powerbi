@@ -106,6 +106,12 @@ Focuses on electric-range and geographic patterns, including:
 - Average electric range by model year
 - Records with zero recorded electric range
 
+## Power BI Report
+
+The complete Power BI report is available here:
+
+[Download the Power BI report](EV_Market_Analysis.pbix)
+
 ## Dashboard Screenshots
 
 ### Executive Dashboard
