@@ -35,6 +35,8 @@ The dataset contains information related to electric vehicles, including:
 
 **Total records:** 299,705
 
+**Source:** [Washington State Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
+
 ## Data Preparation
 
 The dataset was cleaned and transformed using **Power Query** before building the dashboard.
